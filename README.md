@@ -128,24 +128,6 @@ Areas I'm exploring:
 
 🔗 [System Design Learning](https://github.com/Noopur-14/system-design-primer)
 
----
-
-### 🤖 Generative AI
-
-Exploring Generative AI and learning how modern AI applications are built.
-
-Currently exploring:
-
-* Generative AI fundamentals
-* LLMs
-* Prompt Engineering
-* RAG
-* LangChain
-* AI-powered applications
-
-🔗 [Generative AI Learning](https://github.com/Noopur-14/generative-ai-for-beginners)
-
----
 
 ## 📚 Current Learning Journey
 
