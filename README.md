@@ -2,11 +2,6 @@
 
 <h3 align="center">Java Full Stack Developer | Java • Spring Boot • Microservices • Angular</h3>
 
-<p align="center">
-  <a href="https://github.com/Noopur-14">
-    <img src="https://komarev.com/ghpvc/?username=Noopur-14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
 
 ---
 
