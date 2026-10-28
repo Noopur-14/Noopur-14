@@ -59,30 +59,6 @@ I'm a **Java Full Stack Developer with 3+ years of experience** building enterpr
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 📅 Todo Scheduler & Reminder System
-
-A full-stack application designed to manage tasks and send scheduled reminders.
-
-**Tech:** Java • Spring Boot • SQL • Angular
-
-**Planned features:**
-
-* Create, update and delete tasks
-* Schedule reminders for specific times
-* Automated reminder notifications
-* Persistent database storage
-* Daily task reset functionality
-* RESTful backend APIs
-* Angular-based frontend
-
-> 🚧 Currently building this project and documenting the development process on GitHub.
-
----
-
 ### 🧩 Data Structures & Algorithms
 
 I'm practicing DSA in **Java** and focusing on understanding problem-solving patterns rather than simply memorizing solutions.
